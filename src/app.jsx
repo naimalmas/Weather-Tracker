@@ -350,7 +350,7 @@ function App() {
           </div>
           <div className="text-left lg:text-right">
             <p className="text-sm text-white/45">Powered by</p>
-            <p className="text-lg font-semibold">Open-Meteo API · No API key</p>
+            <p className="text-lg font-semibold">Naim Almas</p>
           </div>
         </header>
 
