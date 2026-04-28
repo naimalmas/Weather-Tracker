@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: auto;
+  padding: 10px;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: system-ui, sans-serif;
+}
